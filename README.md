@@ -27,6 +27,7 @@
 - `index.html`：简介、论文、教育、经历、邮箱等内容。
 - `styles.css`：布局、颜色和移动端样式。
 - `assets/Wenhao_Zhao_CV.pdf`：可下载的英文简历。
+- `assets/profile.jpg`：个人照片，来源于本地 `Preference/Personal Photo/`。显示区域由 CSS 控制。
 - 添加照片时，可在页首个人介绍中加入真实照片。
 - 添加 GitHub、Google Scholar、ORCID 链接时使用真实个人主页网址。
 
